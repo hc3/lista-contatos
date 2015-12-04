@@ -90,9 +90,11 @@ router.put('/api/contatos/:contato_id', function(req, res) {
 });
 
 
-// application -------------------------------------------------------------
+// DEFININDO NOSSA ROTA PARA O ANGULARJS/FRONT-END =========
 router.get('*', function(req, res) {
-    res.sendfile('./public/index.html'); // load the single view file (angular will handle the page changes on the front-end)
+    // Carrega nossa view index.html que será a única da nossa aplicação
+    // O Angular irá lidar com as mudanças de páginas no front-end
+    res.sendfile('./public/index.html');
 });
 
 module.exports = router;

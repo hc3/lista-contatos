@@ -1,4 +1,6 @@
-// public/core.js
+// public/angularApp.js
+
+//Criamos um módulo Angular chamado listaContatos
 var listaContatos = angular.module('listaContatos', []);
 
 function mainController($scope, $http) {    
