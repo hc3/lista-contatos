@@ -15,7 +15,7 @@ Node provides the RESTful API. Angular provides the frontend and accesses the AP
 
 ## Tutorial Series
 
-This repo corresponds to the NodeJS tutorial on [thbastos.com - Criando uma aplicação em NodeJS PT-BR](http://thbastos.com/blog/criando-uma-aplicacao-em-nodejs-1-inicio)
+This repo corresponds to the NodeJS tutorial on [thbastos.com - Criando uma aplicação em NodeJS](http://thbastos.com/blog/criando-uma-aplicacao-em-nodejs-1-inicio) PT-BR
 
 Tutorial topics
 - [Criando uma aplicação em NodeJS 1 - Início](http://thbastos.com/blog/criando-uma-aplicacao-em-nodejs-1-inicio)
