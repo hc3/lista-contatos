@@ -10,6 +10,7 @@ Node provides the RESTful API. Angular provides the frontend and accesses the AP
 
 1. Clone the repository: `git clone https://github.com/ThBastos/lista-contatos.git`
 2. Install the application: `npm install`
+3. Make sure the Mahogany is active `mongo` ([Tutorial installation and testing](http://thbastos.com/blog/instalando-e-testando-o-mongodb))
 3. Start the server: `node app.js`
 4. View in browser at `http://localhost:8080`
 
